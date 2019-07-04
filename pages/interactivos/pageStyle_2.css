@@ -1,0 +1,20 @@
+body{background-repeat:no-repeat;   background:-moz-linear-gradient(top,hsla(180,100%,100%,1) 0,hsla(10,100%,25%,.4) 100%);background:-webkit-linear-gradient(top,hsla(180,100%,100%,1) 0,hsla(10,100%,25%,.4) 100%);background:linear-gradient(to bottom,hsla(180,100%,100%,1) 0,rgba(127, 21, 0, 0.336) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#667f1500', GradientType=0 );
+    mix-blend-mode: multiply;
+}
+.imagen{
+    background-repeat:no-repeat; background-image:url(/pages/interactivos/j_2.png);
+ 
+    mix-blend-mode: multiply;
+    
+}
+
+h1,h2,h3,h4{font-family:PrioriSan,serif;color:#c81d3a;}
+.espacio{height:400px}
+#color{border-color:1px solid #c81d3a!important}
+/* .ciudad{background-image:url(/pages/interactivos/ciudad.png);background-position:right 83% bottom 0;background-repeat:no-repeat; mix-blend-mode: normal;}
+.nubes{background-image:url(/pages/interactivos/nubes.png);background-position:bottom 77% left 251%;background-repeat:no-repeat; mix-blend-mode: normal;}
+.nubepin{background-image:url(/pages/interactivos/nubes_linea.png);background-position:bottom 77% left 251%;background-repeat:no-repeat;width:100%;height:600px;display:block;position:fixed;z-index:-1; mix-blend-mode: normal;}
+ */#desplaz{color:#c81d3a}
+ .list-group-horizontal-lg .list-group-item{
+    background-color: transparent;
+}

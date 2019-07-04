@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1,.cls-2{fill:#fff}.cls-1,.cls-3{stroke:#263680;stroke-width:2px}.cls-1,.cls-3,.cls-4{stroke-miterlimit:10}.cls-3,.cls-4{fill:none}.cls-4{stroke:#c81d3a}.cls-5{fill:#c81d3a}
+    </style>
+  </defs>
+  <rect class="cls-1" x="1038" y="126.97" width="285" height="476.53" rx="5.83" ry="5.83" id="_5poster"/>
+  <g id="_1escritorio">
+    <path id="contorno" class="cls-1" d="M412.11 748.58V585H937v165h851"/>
+    <path id="tabla" class="cls-1" d="M412 584l114-68h438l-27 69"/>
+    <g id="patas">
+      <path class="cls-1" d="M453 749.69V615h432v141M510 618v81M964 520v189"/>
+    </g>
+  </g>
+  <g id="_3hojasestaticas">
+    <path class="cls-1" d="M934 563H807l23.5-38h127L934 563z"/>
+    <path class="cls-1" d="M934 558H807l23.5-38h127L934 558z"/>
+  </g>
+  <g id="_55libro">
+    <path class="cls-1" d="M661 556H534l23.5-139.5h127L661 556zM564 436h102M560.47 457h101.47M558.47 474h101.47M554.47 496h101.47M551.47 520h101.47M797 556H670l23.5-139.5h127L797 556z"/>
+    <path class="cls-2" d="M777.77 501.2l1.61 2.7h-31.8l-2.69-3.78 32.88 1.08zM777.77 501.2l1.61 2.7"/>
+    <path class="cls-2" transform="rotate(-36.52 723.94644491 475.3585723)" d="M723.12 473.71h1.51v3.23h-1.51z"/>
+    <path class="cls-3" d="M785.44 505H697l30.97-39.62L749.26 505h35.6l-29.9-58-18.38 26.99 20.1-9.19L766 469"/>
+    <path class="cls-1" d="M670.06 557.79l-9.08-1.41 23.53-141.04 9.08 1.4-23.53 141.05zM681.81 435.14l7.25 1.13M678.38 456.39l7.25 1.13M675.57 473.59l7.26 1.12M671.84 495.83l7.26 1.13M667.87 520.11l7.25 1.12"/>
+  </g>
+  <g id="_4hojasanim">
+    <path class="cls-1" d="M935 552H808l23.5-38h127L935 552z"/>
+    <path class="cls-1" d="M935.5 545.5h-127l23.5-38h127l-23.5 38z"/>
+  </g>
+  <path class="cls-4" d="M391 647.85s412.29 10.39 574.72-31.27c104.81-26.88 35.36-81.34-13.22-80.08" id="_2lineacursor"/>
+  <g id="_6lineacursor2">
+    <path class="cls-5" d="M624.78 398.97l-56.26 40.18-7.25 14.51 13.72-2.55 54.41-42.51 2.54-1.79-7.16-7.84z"/>
+    <path class="cls-4" d="M544.68 499.08s-65.79-10.79-34.08-28.45c93-51.78 364-12 494.51-63.4 0 0 11.48-4.23 21.75-19.33"/>
+  </g>
+</svg>

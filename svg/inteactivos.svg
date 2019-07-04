@@ -1,0 +1,24 @@
+     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 730 579">
+                    <defs>
+                      <style>
+                        .cls-1{fill:none;stroke:#263680;stroke-miterlimit:10;stroke-width:2px}.cls-2{fill:#fff}
+                      </style>
+                    </defs>
+                   <g id="soporte">
+                          <path class="cls-1" d="M441 500s2 36 15 49c0 0 18.31 14.79 23 21 1.35 1.78 4 8 4 8h16M278 500s-2 36-15 49c0 0-18.31 14.79-23 21-1.35 1.78-4 8-4 8h-16"/>
+                          <rect class="cls-1" x="1" y="1" width="728" height="500" rx="32.5" ry="32.5"/>
+                        </g>
+                        <g id="imagen">
+                        
+                          <rect class="cls-1" x="62.41" y="99.5" width="253.75" height="290" rx="33" ry="33"/>
+                          <path class="cls-1" d="M272 284H118l40-69 51 69h62l-66-101-32 47 35-16 22 7"/>
+                        </g>
+                        <g id="secciones">
+                          <rect class="cls-1" x="364" y="146" width="306" height="61" rx="11.75" ry="11.75"/>
+                          <rect class="cls-1" x="364" y="110" width="306" height="14" rx="3.42" ry="3.42"/>
+                          <rect class="cls-1" x="364" y="303" width="306" height="84" rx="11.75" ry="11.75"/>
+                          <rect class="cls-1" x="525" y="227" width="143" height="61" rx="11.75" ry="11.75"/>
+                          <rect class="cls-1" x="364" y="227" width="152" height="61" rx="11.75" ry="11.75"/>
+                        </g>
+                        <path id="pantalla" class="cls-1" d="M34 47h661v373H34z"/>
+                  </svg>

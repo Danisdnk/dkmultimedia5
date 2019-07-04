@@ -1,0 +1,9 @@
+body{background-repeat:no-repeat;
+background-image: url(/pages/Animaciones/pospo_1-100.jpg); width: 100%}
+h1,h2,h3,h4,h5{font-family:PrioriSan,serif;color:#c81d3a;}
+.espacio{height:400px;}
+#color{border-color:1px solid #c81d3a!important;}
+#desplaz{color:#c81d3a;}
+.list-group-horizontal-lg .list-group-item{
+    background-color: transparent;
+}

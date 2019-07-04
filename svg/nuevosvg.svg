@@ -1,0 +1,32 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 894.8 579">
+  <defs>
+    <style>
+      .cls-1,.cls-2{fill:none;stroke-miterlimit:10}.cls-1{stroke:#263680;stroke-width:2px}.cls-2{stroke:#c81d3a}.cls-3{fill:#c81d3a}
+    </style>
+  </defs>
+  <g id="soporte">
+    <path class="cls-1" d="M551 517s2 36 15 49c0 0 18.31 14.79 23 21 1.35 1.78 4 8 4 8h16M388 517s-2 36-15 49c0 0-18.31 14.79-23 21-1.35 1.78-4 8-4 8h-16" transform="translate(-35.3 -17)"/>
+    <rect class="cls-1" x="75.7" y="1" width="728" height="500" rx="32.5" ry="32.5"/>
+  </g>
+  <path id="encima" class="cls-2" d="M207 387s475.26 16.46 662.5-49.5c120.82-42.56 32-112-28-127" transform="translate(-35.3 -17)"/>
+  <g id="imagen">
+    <rect class="cls-1" x="137.11" y="99.5" width="253.75" height="290" rx="33" ry="33"/>
+    <path class="cls-1" d="M346.7 284h-154l40-69 51 69h62l-66-101-32 47 35-16 22 7"/>
+  </g>
+  <g id="secciones">
+    <rect class="cls-1" x="438.7" y="146" width="306" height="61" rx="11.75" ry="11.75"/>
+    <rect class="cls-1" x="438.7" y="110" width="306" height="14" rx="3.42" ry="3.42"/>
+    <rect class="cls-1" x="438.7" y="303" width="306" height="84" rx="11.75" ry="11.75"/>
+    <rect class="cls-1" x="599.7" y="227" width="143" height="61" rx="11.75" ry="11.75"/>
+    <rect class="cls-1" x="438.7" y="227" width="152" height="61" rx="11.75" ry="11.75"/>
+  </g>
+  <path id="pantalla" class="cls-1" d="M108.7 47h661v373h-661z"/>
+  <g id="point">
+    <path class="cls-2" d="M148.11 365.22h-10.64M152.67 362.18l-3.04-13.68M159.51 365.22h10.63M155.71 371.29l1.52 9.12"/>
+  </g>
+  <g id="cursor">
+    <path class="cls-3" d="M132.87 411l-6.99-15.58-15.58-6.98 41.91-20.42L132.87 411z"/>
+    <path class="cls-3" transform="rotate(45 159.22802128 366.14440592)" d="M153.31 408.14h6.08v18.24h-6.08z"/>
+  </g>
+  <path id="detras" class="cls-2" d="M106.5 201.5s-108.88-17.85-56.4-47.07C204 68.73 652.5 134.5 868.5 49.5c0 0 19-7 36-32" transform="translate(-35.3 -17)"/>
+</svg>

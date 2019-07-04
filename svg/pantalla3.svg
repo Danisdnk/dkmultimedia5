@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1,.cls-2{fill:#263680}.cls-2{font-size:21px;font-family:PrioriSanRegular,PrioriSan}.cls-3,.cls-4{fill:none}.cls-3,.cls-4,.cls-5,.cls-6{stroke:#263680}.cls-3,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8{stroke-miterlimit:10}.cls-4,.cls-5{stroke-width:2px}.cls-5,.cls-6,.cls-7{fill:#fff}.cls-7{stroke:#c81d3a}.cls-8{fill:#c81d3a;stroke:#fff}
+    </style>
+  </defs>
+  <path class="cls-1" d="M0 777h1920v1.23H0z" id="linea"/>
+  <g id="ver_trabajos">
+    <path class="cls-1" d="M1038.75 860a37 37 0 1 0 37 37 37 37 0 0 0-37-37zm0 51l-14.49-12.89 3.34-4.46 11.15 10.66 11.15-10.66 3.34 4.46z"/>
+    <text class="cls-2" transform="translate(997.67 832.26)">
+      ver trabajos
+    </text>
+  </g>
+  <g id="enchufe">
+    <path class="cls-3" d="M111 658.5h28.5v32H111zM134.5 664.5l-19 20M135.5 678.5l-7 7M120.5 661.5l-7 7"/>
+  </g>
+  <g id="lcircuito">
+    <path class="cls-4" d="M750 459H614v217M140 675h474"/>
+  </g>
+ <g id="pprincipal">
+    <rect class="cls-5" x="733.43" y="175.16" width="697.32" height="425.34" rx="14.91" ry="14.91"/>
+    <path class="cls-6" d="M737.5 576h690"/>
+    <path class="cls-7" d="M801.17 586.37l-11.67-6.74v13.48l11.67-6.74z"/>
+    <path class="cls-7" d="M807 586.37l-11.67-6.74v13.48l11.67-6.74zM750.33 586.37l11.67 6.74v-13.48l-11.67 6.74z"/>
+    <path class="cls-7" d="M744.5 586.37l11.67 6.74v-13.48l-11.67 6.74zM769.5 579.5h3v13h-3zM775.5 579.5h3v13h-3z"/>
+    <path class="cls-8" d="M818.5 584.5h575v5h-575z"/>
+  </g>
+  <path class="cls-5" d="M1035 334l104.18 54.06L1035 447V334z" id="btnplay"/>
+</svg>

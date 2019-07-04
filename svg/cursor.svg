@@ -1,0 +1,16 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1004 600">
+  <defs>
+    <style>
+      .cls-1{fill:none;stroke:#c81d3a;stroke-miterlimit:10}.cls-2{fill:#c81d3a}
+    </style>
+  </defs>
+  <path id="encima" class="cls-1" d="M207 387s475.26 16.46 662.5-49.5c120.82-42.56 32-112-28-127"/>
+  <g id="point">
+    <path class="cls-1" d="M183.41 382.22h-10.63M187.97 379.18l-3.04-13.68M194.81 382.22h10.64M191.01 388.29l1.52 9.12"/>
+  </g>
+  <g id="cursor">
+    <path class="cls-2" d="M168.17 428l-6.98-15.58-15.58-6.98 41.9-20.42L168.17 428z"/>
+    <path class="cls-2" transform="rotate(45 156.357206 417.2552753)" d="M153.31 408.14h6.08v18.24h-6.08z"/>
+  </g>
+  <path id="detras" class="cls-1" d="M106.5 201.5s-108.88-17.85-56.4-47.07C204 68.73 652.5 134.5 868.5 49.5c0 0 19-7 36-32"/>
+</svg>

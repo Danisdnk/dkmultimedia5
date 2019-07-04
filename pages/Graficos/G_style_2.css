@@ -1,0 +1,16 @@
+body{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#264593+0,ededed+100 */
+background: #264593; /* Old browsers */
+background: -moz-linear-gradient(top,  hsla(223,59%,36%,1) 0%, hsla(0,0%,93%,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  hsla(223,59%,36%,1) 0%,hsla(0,0%,93%,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  hsla(223,59%,36%,1) 0%,hsla(0,0%,93%,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#264593', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+
+    width:100%;background-attachment:fixed}
+h1,h2,h3,h4,h5,h6{font-family:PrioriSan,serif;color:#c81d3a}
+#color{border-color:1px solid #c81d3a!important}
+#desplaz{color:#c81d3a}
+
+.list-group-horizontal-lg .list-group-item{
+    background-color: transparent;
+}
